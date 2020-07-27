@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxytiandi</groupId>
-    <artifactId>sjdbc-read-write-springboot</artifactId>
+    <artifactId>sharding-rw</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>sjdbc-read-write</name>
+    <name>sharding-rw</name>
     <url>http://maven.apache.org</url>
 
     <properties>

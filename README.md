@@ -2,22 +2,15 @@
 
 sharding-db-biz：垂直拆分（不同的业务表在不同的库中）
 sharding-db-table：分库分表案例
+sharding-db-table：不分库，只分表案例
 
-sjdbc-sharding-table-springboot：Spring Boot版 Sharding JDBC 不分库，只分表案例
-
-sjdbc-read-write-springboot：Spring Boot版 Sharding JDBC 读写分离示列
-
-sjdbc-db-read-write-sharding-springboot：Spring Boot版 Sharding JDBC 垂直拆分（不同的表在不同的库中）+ 读写分离
+sharding-rw：读写分离示列
 
 
-
-sjdbc-sharding-table-read-write-springboot：Spring Boot版 Sharding JDBC 不分库，只分表+读写分离案例
-
-
-
-sjdbc-db-sharding-table-read-write-springboot：Spring Boot版 Sharding JDBC 分库分表+读写分离案例
-
-sjdbc-db-sharding-table-read-write-range-group-springboot：Spring Boot版 Sharding JDBC 分库分表+读写分离案例(范围分表+取模=无限扩容)
+sjdbc-db-read-write-sharding-springboot：垂直拆分（不同的表在不同的库中）+ 读写分离
+sjdbc-sharding-table-read-write-springboot：不分库，只分表+读写分离案例
+sjdbc-db-sharding-table-read-write-springboot：分库分表+读写分离案例
+sjdbc-db-sharding-table-read-write-range-group-springboot：分库分表+读写分离案例(范围分表+取模=无限扩容)
 
 # sharding-jdbc 相关文章
 
